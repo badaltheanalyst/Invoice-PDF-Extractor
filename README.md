@@ -76,16 +76,14 @@ The generated Excel report contains structured invoice information that can be u
 ## Screenshots
 
 ### Invoice PDF
-
-![Invoice](screenshots/input_invoice.png)
+[wordpress-pdf-invoice-plugin-sample.pdf](https://github.com/user-attachments/files/28553474/wordpress-pdf-invoice-plugin-sample.pdf)
 
 ### Script Execution
 
-![Execution](screenshots/script_execution.png)
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/d8f6539a-f7fc-4d64-894a-c44cacebd603" />
 
 ### Excel Output
-
-![Output](screenshots/excel_output.png)
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/2ee89d9a-4b0c-4389-8668-1af8b0ef0d65" />
 
 ## About Me
 
