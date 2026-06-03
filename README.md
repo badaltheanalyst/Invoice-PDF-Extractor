@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/d0e88d8d-5d38-4e46-bc7c-627dbb9cd20b" />
 # Invoice Data Extraction System
 
 This project was built to automate the process of extracting invoice information from PDF files and converting it into a structured Excel report.
